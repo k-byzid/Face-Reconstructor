@@ -27,9 +27,9 @@ patches, maintaining a natural appearance. 🖌️🧑‍🎨<br><br>
 ## Usage Preview
 ### Input Video - - Output Video: 
 
-<br><video src="assets/example_video.mp4" alt="Input Video" width="800" height="450" type="video/mp4"></video><video src="assets/processed_example_video.mp4" alt="Output Video" width="800" height="450" controls></video>
-<br><br><video src="assets/example_video_2.mp4" alt="Input Video" width="800" height="450" controls></video><video src="assets/processed_example_video_2.mp4" alt="Output Video" width="800" height="450" controls></video>
-<br><br><video src="assets/test.mp4" alt="Input Video" width="800" height="450" controls></video><video src="assets/processed_test.mp4" alt="Output Video" width="800" height="450" controls></video><br><br>
+<br>![Example 1](gif/example_video.gif)![Processed Example 1](gif/processed_example_video.gif)
+<br><br>![Example 2](gif/example_video_2.gif)![Processed Example 2](gif/processed_example_video_2.gif)
+<br><br>![Example Test](gif/test.gif)![Processed Example Test](gif/processed_test.gif)<br><br>
 
 ## Requirements
 The following dependencies are required to run the Face Reconstructor:
