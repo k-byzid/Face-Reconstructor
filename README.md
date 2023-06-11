@@ -22,7 +22,7 @@ patches, maintaining a natural appearance. 🖌️🧑‍🎨<br><br>
 2. :arrow_down: Clone the forked repository to your local machine.
 3. :cd: Navigate to the local repository using the command line.
 4. :computer: Run the script using the following command: <br><kbd style="background-color: black; color: white; padding: 50px 75px; border-radius: 10px;">python reconstructor.py --input_image assets/example_video.mp4 --output_path results/processed_example_video.mp4</kbd>, <br>where <kbd style="background-color: black; color: white; padding: 50px 75px; border-radius: 10px;">assets/example_video.mp4</kbd>is the path to the input video you want to extract the face from.
-8. :envelope: The generated stickers will be saved in the "results" folder for further usage.<br><br>
+8. :envelope: The generated mesh will be saved in the "results" folder for further usage.<br><br>
 
 ## Usage Preview
 ### Input Video - - Output Video: 
